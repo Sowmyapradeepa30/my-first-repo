@@ -1,0 +1,14 @@
+Name:Mamidi sowmya pradeepa
+Course:Bsc-B
+About Github: I learned about DevOps and its phases. 
+DevOps means Development and Operations.
+It have 8 phases they are: 
+.plan
+.Develop
+.Build
+.Test
+.Release
+.Deploy
+.Operate
+.Monitor
+And also i have learned how to create a github account and do projects.
